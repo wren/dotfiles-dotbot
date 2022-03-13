@@ -6,10 +6,10 @@
 	url = https://github.com/sobolevn/dotbot-pip.git
 [submodule "plugins/dotbot-brew"]
 	path = plugins/dotbot-brew
-	url = git@github.com:wren/dotbot-brew.git
+	url = https://github.com/wren/dotbot-brew.git
 [submodule "plugins/dotbot-git"]
 	path = plugins/dotbot-git
 	url = https://github.com/DrDynamic/dotbot-git.git
 [submodule "plugins/dotbot-crontab"]
 	path = plugins/dotbot-crontab
-	url = git@github.com:codekansas/dotbot-crontab.git
+	url = https://github.com/codekansas/dotbot-crontab.git
