@@ -13,3 +13,9 @@
 [submodule "plugins/dotbot-crontab"]
 	path = plugins/dotbot-crontab
 	url = https://github.com/codekansas/dotbot-crontab.git
+[submodule "plugins/dotbot-sudo"]
+	path = plugins/dotbot-sudo
+	url = https://github.com/DrDynamic/dotbot-sudo.git
+[submodule "plugins/dotbot-asdf"]
+	path = plugins/dotbot-asdf
+	url = https://github.com/sobolevn/dotbot-asdf.git
